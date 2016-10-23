@@ -1,0 +1,59 @@
+html {
+	font-family: helvetica;
+}
+strong {
+	font-size: 50px;
+	color: red;
+	font-style: italic;
+}
+img {
+	margin-right: 60%;
+}
+a {
+	color: green;
+	font-style: bold;
+
+}
+ul {
+	font-style: bold;
+	color: blue;
+	text-align: center;
+	padding-right: 70%;
+	font-size: 30px;
+	margin-right: -67%;
+
+}
+table {
+	font-family: ariel;
+	font-style: italic;
+	margin: auto;
+	font-size: 20px;
+}
+#p1 {
+	font-size: 25px;
+	font-style: italic;
+}
+#p2 {
+	font-size: 25px;
+	font-style: italic;
+
+}
+#p3 {
+	font-size: 25px;
+	font-style: italic;
+
+}
+img {
+	display: absolute;
+	margin: auto;
+}
+
+
+body {
+	text-align: center;
+	float: left;
+	border: 1px solid black;
+	padding-left: 15px;
+	font-size: 15px;
+	font-style: bold;
+}
